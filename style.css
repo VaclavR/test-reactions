@@ -1,0 +1,47 @@
+body{
+margin-top: 0;
+}
+
+h1{
+  float: left;
+}
+
+table{
+  float: right;
+  padding-right: 50px;
+}
+
+.clear{
+  clear: left;
+}
+
+#playground{
+  width: 80vw;
+  height: 75vh;
+  background-color: #eee;
+  position: relative;
+}
+
+#div{
+  position: absolute;
+}
+
+.head{
+  width: 100%
+}
+
+.best{
+  font-weight: bold;
+}
+
+.circle{
+  border-radius: 50%;
+}
+
+.triangle{
+  width: 0;
+  height: 0;
+  border-bottom: 200px solid yellow;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+}
